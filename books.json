@@ -1,0 +1,47 @@
+[
+    {"id": 101, 
+    "title": "Perks of Being a Wallflower", 
+    "genre": "Young Adult Fiction", 
+    "yearPublished": 1999, 
+    "author": "Stephan Chosky",
+    "priceInCents": 1155,
+    "inStock": "Available",
+    "readIt": true
+    },
+    {"id": 102, 
+    "title": "The Bridge of San Luis Rey", 
+    "genre": "Historical Fiction", 
+    "yearPublished": 1927, 
+    "author": "Thornton Wilder",
+    "priceInCents": 1013,
+    "inStock": "Not available at this time.",
+    "readIt": false
+    },
+    {"id": 103, 
+    "title": "Like Water for Chocolate", 
+    "genre": "Romance Novel", 
+    "yearPublished": 1989, 
+    "author": "Laura Esquivel",
+    "priceInCents": 770,
+    "inStock": "Available",
+    "readIt": true
+    },
+    {"id": 104, 
+    "title": "Tuesday with Morrie", 
+    "genre": "Memoir", 
+    "yearPublished": 1997, 
+    "author": "Mitch Albom",
+    "priceInCents": 889,
+    "inStock": "Not available at this time.",
+    "readIt": false
+    },
+    {"id": 105, 
+    "title": "The Witch Collector", 
+    "genre": "Fantasy Fiction", 
+    "yearPublished": 2021, 
+    "author": "Charissa Weaks",
+    "priceInCents": 1529,
+    "inStock": "Available",
+    "readIt": false
+    }
+]
